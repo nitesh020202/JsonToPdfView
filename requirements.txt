@@ -4,3 +4,4 @@ pymupdf
 pillow
 Streamlit
 google-genai
+python-dotenv
