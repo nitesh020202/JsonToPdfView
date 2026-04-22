@@ -1,7 +1,5 @@
-flask
-anthropic
-pymupdf
-pillow
-Streamlit
+streamlit
+PyMuPDF
+Pillow
 google-genai
 python-dotenv
