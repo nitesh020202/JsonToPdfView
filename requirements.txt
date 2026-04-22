@@ -3,3 +3,4 @@ anthropic
 pymupdf
 pillow
 Streamlit
+google-genai
